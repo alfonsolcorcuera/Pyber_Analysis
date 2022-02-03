@@ -30,5 +30,5 @@ Below you will find detailed information:
 ## PyBer Analysis Summary
 Based on our analysis, we have the following recommendations for the CEO to addres disparities among city types:
 1.	In more profitable cities, such as Rural and Suburban, evaluate if we can increase supply (number of rides and drivers) without cannibalizing
-2.	Across thre city types, Management should conduct a price-elasticity of demand analysis to determine if tariffs can be increased without losing clients
+2.	Across all city types, Management should conduct a price-elasticity of demand analysis to determine if tariffs can be increased without losing clients
 3.	In underperforming months, such as March and May, incentives should be offered to clients to weather total fares decrease
