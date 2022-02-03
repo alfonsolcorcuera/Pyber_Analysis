@@ -2,9 +2,9 @@
 
 
 ## PyBer Analysis Overview
-We are working with PyBer, a Python-based ride-sharing app company, and we are analyzing large data sets with information regarding total fares and number of riders and drivers by city type. The analysis and visualizations that we conduct, will help Management to improve the Company's services and profitability.
+We are working with PyBer, a Python-based ride-sharing app company, and we are analyzing large data sets with information regarding total fares and number of riders and drivers by city type. The analysis and visualizations that we conduct will help Management to improve the Company's services and profitability.
 
-In this specific analysis, we are working with our Manager, Omar, and PyBer's CEO, V. Isualize. The objective is to show them in a both compelling and simple manner, key financial and operating metrics, that indicate how data differs by city type and how those differences can be used by decision-makers at PyBer.
+In this specific analysis, we are working with our Manager, Omar, and PyBer's CEO, V. Isualize. The objective is to show them in a both compelling and simple manner, key financial and operating metrics that indicate how data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 
 ## PyBer Analysis Results
