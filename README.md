@@ -9,18 +9,18 @@ In this specific analysis, we are working with our Manager, Omar, and PyBer's CE
 
 ## PyBer Analysis Results
 
-Based on our analysis, Urban cities have the largest number of rides and drivers, as well as total fares (+55% of the total in the three categories); however, average fare per ride and per driver are materially lower vs. Rural and Suburban, this could be due to higher competition, lower switching costs and higher multi-homing in Urban cities. 
+Based on our analysis, Urban cities have the largest number of rides and drivers, as well as total fares (+55% of the total in the three categories); however, average fare per ride and per driver are materially lower vs. Rural and Suburban cities, this could be due to higher competition, lower switching costs and higher multi-homing in Urban cities. 
 
-In the case of Suburban Cities, rides, drivers and total fares are also materially higher than Rural cities, however average fare per ride and per driver are lower vs. Rural Cities and higher vs. Urban Cities.
+In the case of Suburban Cities, rides, drivers and total fares are also materially higher than Rural cities, however average fare per ride and per driver are lower vs. Rural cities and higher vs. Urban cities.
 
-Finally, Rural Cities have the highest average fare per ride and per driver, however total rides, total drivers and total fares are materially lower vs. Suburban and Urban cities. This difference in average fare per ride and per driver should be related to PyBer's lack of competition in these cities.
+Finally, Rural cities have the highest average fare per ride and per driver, however total rides, total drivers and total fares are materially lower vs. Suburban and Urban cities. This difference in average fare per ride and per driver should be related to PyBer's lack of competition in these cities.
 
-Below you will find detailed statistics on such comparison:
+Below you will find detailed statistics of such comparison:
 
 ![](Pyber_City_Comparison.PNG)
 
 
-Also, based on 2019's weekly total fares by city type, we can observe that Urban fares are by far the most important for PyBer's. Furthermore, in terms of stationality, march seems to be a underperforming month across all city types.
+Also, based on 2019's weekly total fares by city type, we can observe that Urban fares are by far the most important for PyBer's. Furthermore, in terms of stationality, March and May seem to be underperforming months across all city types.
 
 Below you will find detailed information:
 
