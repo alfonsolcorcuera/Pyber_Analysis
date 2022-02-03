@@ -9,7 +9,7 @@ In this specific analysis, we are working with our Manager, Omar, and PyBer's CE
 
 ## PyBer Analysis Results
 
-Based on our analysis, Urban cities have the largest number of rides and drivers, as well as total fares (+55% in the three categories); however, average fare per ride and average fare per driver are materially lower vs. Rural and Suburban, this could be due to higher competition, lower switching costs and higher multi-homing in Urban cities. 
+Based on our analysis, Urban cities have the largest number of rides and drivers, as well as total fares (+55% of the total in the three categories); however, average fare per ride and average fare per driver are materially lower vs. Rural and Suburban, this could be due to higher competition, lower switching costs and higher multi-homing in Urban cities. 
 
 In the case of Suburban Cities, rides, drivers and total fares are also materially higher than Rural cities, however average fare per ride and per driver are lower vs. Rural Cities and higher vs. Urban Cities.
 
